@@ -1,6 +1,6 @@
 # since we are not using ActiveRecord in this lab, you write a bare Ruby model (like you did in MOD1)
 class Puppy 
-   def initialize(name,)
+   def initialize(name,breed,)
    end
   
 end
