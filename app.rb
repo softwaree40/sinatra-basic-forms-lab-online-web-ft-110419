@@ -10,6 +10,6 @@ class App < Sinatra::Base
      post "/puppy" do 
       @puppy = Puppy.all
       
-        erb :index
+      
      end
 end
